@@ -8,10 +8,6 @@ learn git (github) 8
 learn git (github) 9
 learn git (github) 10
 learn git (github) 11
-<<<<<<< HEAD
 learn git (github) 12
 learn git (github) 13
 learn git (github) 14
-=======
-learn git (github) 12
->>>>>>> parent of e39f451 (github 12)
